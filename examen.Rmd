@@ -59,7 +59,7 @@ devtools::install_github("kassambara/ggpubr")
 
 **Las librerías requeridas en esta evaluación son**: 
 
-```{r, warning=FALSE}
+```{r}
 library(ggpmisc); library(ggplot2); library(plotly); library(palmerpenguins)
 library(ggplot2); library(magrittr); library(ggpubr); library(tidyverse)
 library(ComplexHeatmap); library(viridis) 
