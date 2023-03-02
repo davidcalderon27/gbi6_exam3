@@ -10,10 +10,10 @@ Datos del equipo:
 
 Nombre del equipo: DESKTOP-dy2095wm Sistema operativo: Windows 10 64 bits (10.0, compilación 19045)
 Idioma: español (configuracióen regional: español) 
-Fabricante del sistema: Acer Mdelo del sistema: Aspire E1-571G BIOS: InsydeH2O 
+Fabricante del sistema: Hp_ 15dy2095 del sistema: Aspire E1-571G BIOS: InsydeH2O 
 Version 03.72.23v2.15 
-Modelo del Procesador: Intel(R) Coer(TM) i7-3612Qm CPU @ 2.10GHz (8CPUs), ~2.1GHz 
-Memoria: 8192MB RAM Archivo de paginación: 6664MB usados, 4801MB disponibles 
+Modelo del Procesador: Intel(R) Coer(TM) i5 1135G7 Quad-Core processor CPU @ 2.10GHz (8CPUs), ~2.1GHz 
+Memoria: 8192MB RAM Archivo de paginación: 8766MB usados, 4801MB disponibles 
 Versión de DierectX: 12
 
  Programa de  Rstudio ver. 2022.12.0+353 R ver. 4.2.2
